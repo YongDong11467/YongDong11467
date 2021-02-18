@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### My Github Stats
+
+![My Stats](https://github-readme-stats.vercel.app/api?username=ClemsonJames&show_icons=true&hide_border=true)
+
+---
+
 <!--
 **YongDong11467/YongDong11467** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
